@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://masa162.github.io/garden-blog/sitemap.xml
